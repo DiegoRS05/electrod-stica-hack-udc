@@ -7,4 +7,4 @@ lo siguiente: 'localhost:5000' , sin las comillas simples. Cualquiera de ambos c
 a continuación: "Código universal de punto de suministro,Fecha,Hora,Consumo,Método de obtención,datetime", siendo así 6 columnas diferentes. Para facilitar el testeo del software, se facilita un archivo ubicado en el directorio uploads, cuyo nombre es electrodatos.csv. Es una base de datos con las características pedidas.
 El código está bajo licencia GPL 3.0.
 Este código fue pensado, programado e implementado por Martin Hernandez, Daniel Quintero y yo, Diego Rodriguez. 
-Agradecimientos al grupo de Python Coruña, en especial a Martín y a Roberto por habernos ayudado en momentos difíciles y al grupo GPUL por organizar el evento!
+Agradecimientos al grupo de Python Coruña, en especial a Martín y a Roberto por habernos ayudado en momentos de duda y al grupo GPUL por organizar el evento! 
