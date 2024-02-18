@@ -97,4 +97,5 @@ def guardar_precio(precio):
     media=sum(precio)/len(precio)
     plt.axvline(x=media, color='green', linestyle='--', label='Media')
     plt.title('Precio medio hora', fontsize=25)
+    plt.legend(fontsize=20)
     plt.savefig('static/image1.png')
