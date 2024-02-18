@@ -5,6 +5,6 @@ Una vez hayas hecho eso, o bien te sitúas en el directorio de templates y abres
 lo siguiente: 'localhost:5000' , sin las comillas simples. Cualquiera de ambos caminos te llevará a un entorno creado por flask, donde podrás interactuar con la web.
 ¡IMPORTANTE! -> El arhivo que se debe subir a la web, una vez hosteada debe ser de tipo csv, y debe tener los nombres de las columnas EXATAMENTE como se enseña 
 a continuación: "Código universal de punto de suministro,Fecha,Hora,Consumo,Método de obtención,datetime", siendo así 6 columnas diferentes. Para facilitar el testeo del software, se facilita un archivo ubicado en el directorio uploads, cuyo nombre es electrodatos.csv. Es una base de datos con las características pedidas.
-El código está bajo licencia GPL 3.0.
+El código está bajo licencia GPLv3.
 Este código fue pensado, programado e implementado por Martin Hernandez, Daniel Quintero y yo, Diego Rodriguez. 
 Agradecimientos al grupo de Python Coruña, en especial a Martín y a Roberto por habernos ayudado en momentos de duda y al grupo GPUL por organizar el evento! 
