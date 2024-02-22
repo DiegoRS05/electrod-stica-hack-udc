@@ -1,4 +1,5 @@
-Hi there!👋🏼
+## Hi there!👋🏼
+## Introduction
 This is electrodistica, a website that will simplify those complicated csv files and help you to understand simple databases (basically, information about electricity consumption). 
 Installation:
 To use this web, you have to install the paginaweb directory with everything inside it, and you must drag that directory, for example, to visual studio code, where you must run the app.py file.
