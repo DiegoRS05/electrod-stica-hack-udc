@@ -8,7 +8,12 @@ Once you have done that, either you go to the templates directory and open index
 the following: 'localhost:5000' , without the single quotes. 
 <br>
 Either way will take you to an environment created by flask, where you will be able to interact with the web.
-IMPORTANT! -> The file to be uploaded to the web, once hosted, must be of csv type, and must contain at least 4 columns whose names are: "Date,Time,Consumption,datetime". To facilitate the testing of the software, a file located in the uploads directory is provided, whose name is electrodatos.csv. It is a database with the requested characteristics.
+IMPORTANT! -> The file to be uploaded to the web, once hosted, must be of csv type, and must contain at least 4 columns whose names are: "Date,Time,Consumption,datetime". 
+<br>
+## Files provided
+To facilitate the testing of the software, a file located in the uploads directory is provided, whose name is electrodatos.csv. It is a database with the requested characteristics.
+## License
 The code is under GPLv3 license.
+## Creators and acknowledgments
 This code was thought, programmed and implemented by Martin Hernandez, Daniel Quintero and me, Diego Rodriguez. 
 Thanks to the Python Coruña group, specially to Martin and Roberto for helping us in moments of doubt and to the GPUL group for organizing the event!
